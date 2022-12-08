@@ -1,0 +1,14 @@
+#sidebar {
+
+        text-decoration: none;
+        color: rgba(196, 37, 96, 0.804);
+        font-size: 88px;
+        font-family: Nunito;
+    }
+
+    #sidebar::first-letter {
+
+        color: #170cb3;
+        font-size: 158px;
+        font-weight: bold;
+    }
